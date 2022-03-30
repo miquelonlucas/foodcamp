@@ -39,6 +39,12 @@
     flex-direction: row;
 }
 
+.box:hover{
+    cursor: pointer;
+    transition: 0.2s;
+    box-shadow: 1px 2px 2px 1px #bbbbbb;
+}
+
 .box{
     background-color: #FFFFFF;
     border-radius: 9px;
