@@ -1,0 +1,21 @@
+#header{
+    height: 92px;
+    width: 100vw;
+    background-color: #CF2B2B;
+    box-shadow: 0 0 3px 0 black;
+}
+
+#logo{
+    font-family: 'Righteous', sans-serif;
+    font-size: 44px;
+    color: #FFFFFF;
+    padding: 12px 0 0 21px;
+}
+
+#subtitle{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: ;
+    color: #FFFFFF;
+    padding: 5px 0 0 21px;
+}
